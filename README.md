@@ -1,12 +1,11 @@
-# HeroesApp
+# Heroes App
 
-Repositorio del proyecto de CRUD en mi curso de Angular de cero a experto
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
-https://www.udemy.com/angular-2-fernando-herrera/?couponCode=ANGULAR-10
+## Development server
 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Nota
+## Further help
 
-Si quieres saber más sobre mis cursos, ingresa a mi sitio web
-
-https://fernando-herrera.com
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
